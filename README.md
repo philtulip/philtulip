@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Phil.
-- 👀 I’m interested in frontend development with a dash of motion & UI design.
+- Hi, I’m Phil.
+- Frontend Dev hacking away with AI.
 
 <!---
 philtulip/philtulip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
